@@ -17,7 +17,7 @@
   Hi, I'm Santosh, Software Developer from India
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelor's degree in NSUT, New Delhi, India
+  🔬 I'm currently studying for a bachelor's degree in NSUT, New Delhi, India
   <!--
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
@@ -85,13 +85,14 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/santo-sh/Twilio-message-broadcaster" title="Twilio-message-broadcaster"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=santo-sh&repo=Twilio-message-broadcaster&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/santo-sh/Hostel-Management-System" title="Hostel-Management-Syste"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=santo-sh&repo=Hostel-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/santo-sh/mlops-project" title="MLOps Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=santo-sh&repo=mlops-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/santo-sh/Hostel-Management-System" title="Hostel-Management-Syste"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=santo-sh&repo=Hostel-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/santo-sh/Task-Manager" title="Task-Manager"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=santo-sh&repo=Task-Manager&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/santo-sh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
